@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Run {
+public class Run {
+    public Run(){
+
+    }
 }
